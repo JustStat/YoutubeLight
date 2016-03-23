@@ -1,0 +1,62 @@
+[
+    {
+        "outputFile": "/Users/kirillvarlamov/SimplePlayer/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "/Users/kirillvarlamov/SimplePlayer/app/src/main/res/values-v14/styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/Users/kirillvarlamov/SimplePlayer/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 700
+                },
+                "from": {
+                    "file": "/Users/kirillvarlamov/SimplePlayer/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 867
+                    }
+                }
+            }
+        ]
+    }
+]

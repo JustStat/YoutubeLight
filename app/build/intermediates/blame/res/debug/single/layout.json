@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/kirillvarlamov/SimplePlayer/app/build/intermediates/res/merged/debug/layout/activity_player.xml",
+        "source": "/Users/kirillvarlamov/SimplePlayer/app/src/main/res/layout/activity_player.xml"
+    },
+    {
+        "merged": "/Users/kirillvarlamov/SimplePlayer/app/build/intermediates/res/merged/debug/layout/video_item.xml",
+        "source": "/Users/kirillvarlamov/SimplePlayer/app/src/main/res/layout/video_item.xml"
+    },
+    {
+        "merged": "/Users/kirillvarlamov/SimplePlayer/app/build/intermediates/res/merged/debug/layout/activity_search.xml",
+        "source": "/Users/kirillvarlamov/SimplePlayer/app/src/main/res/layout/activity_search.xml"
+    }
+]
